@@ -1,0 +1,2 @@
+Prefix plugins/AGEnt/example
+Plugin AGEnt inputfile parameters.txt outputfile accessory

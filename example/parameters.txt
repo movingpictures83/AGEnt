@@ -1,0 +1,2 @@
+core	core.fasta
+query	PVY.fasta
